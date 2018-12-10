@@ -1,0 +1,11 @@
+{
+	"name": "Stock-Predictions_News_Analytics",
+	"description": "Stock Price Predictions Based on News Analytics",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "*",
+		"fast-csv": "^2.4.1",
+		"socket.io": "*"
+	}
+}
