@@ -11,5 +11,8 @@ The modeling code is under ./src.
 
 ## Report
 
+## Slides
+Slides used in the presentation.
+
 ## Video
 [Demo on Youtube](https://youtu.be/8oagRyBbris)
