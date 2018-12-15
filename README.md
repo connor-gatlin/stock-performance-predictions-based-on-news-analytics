@@ -1,7 +1,7 @@
-# stock-performance-predictions-based-on-news-analytics
+# Stock Performance Predictions based on News Analytics
 
 ## Data
-Data is not uploaded to github due to copyright. You can  
+Data is not uploaded to github due to copyright. You can find the dataset in [Kaggle's Two Sigma competition](https://www.kaggle.com/c/two-sigma-financial-news).
 
 ## Visualization
 The web visualization code is under ./web.
