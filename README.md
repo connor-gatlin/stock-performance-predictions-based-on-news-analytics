@@ -7,7 +7,7 @@ The results are encouraging as they show great improvements over the benchmark. 
 Data is not uploaded to github due to copyright. You can find the dataset in [Kaggle's Two Sigma competition](https://www.kaggle.com/c/two-sigma-financial-news).
 
 ## Visualization
-The web visualization code is under ./web. For selected company, we show stock prices and technical indicators on the left panel and news headlines and sentiments on the right panel.
+The web visualization code is under ./web. For selected company, we show stock prices and technical indicators on the left panel and news headlines and sentiments associated with the company on the right panel.
 
 Example: Apple's stock prices and news analytics:
 ![Example: Apple's stock prices and news analytics](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/web/Website.png)
