@@ -16,7 +16,7 @@ Example: Apple's stock prices and news analytics:
 The modeling code is under ./src. Since LSTM has different data preprecessing requirements than gradient boosted trees, we have two separate codebases. You can find CatBoost Classifier and LightGBM in [project.ipynb](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/blob/master/src/project.ipynb) and LSTM in [LSTM_final.ipynb](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/blob/master/src/LSTM_final.ipynb).
 
 ## Report
-The [report](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Report.pdf) documents all the details of our analysis.
+The [report](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/blob/master/Report.pdf) documents all the details of our analysis.
 
 ## Slides
 Slides used in the presentation can be found [here](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Presentation.pptx).
