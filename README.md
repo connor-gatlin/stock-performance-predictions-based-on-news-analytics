@@ -13,7 +13,7 @@ The web visualization code is under ./web.
 The modeling code is under ./src. Since tree based models have different data preprecessing requirements than neural network based model, we keep CatBoost Classifier and LightGBM in project.ipynb and LSTM in LSTM_final.ipynb.
 
 ## Report
-The report documents all the details of our analysis.
+The [report](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Report.pdf) documents all the details of our analysis.
 
 ## Slides
 Presentation.pptx contains the slides used in the presentation.
