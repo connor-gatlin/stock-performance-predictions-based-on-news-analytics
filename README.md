@@ -18,8 +18,8 @@ The modeling code is under ./src. Since LSTM has different data preprecessing re
 ## Report
 The [report](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/blob/master/Report.pdf) documents all the details of our analysis.
 
-## Slides
-Slides used in the presentation can be found [here](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Presentation.pptx).
+## Presentation Slides
+Slides used in the presentation can be found [here](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/blob/master/Presentation.pptx).
 
-## Video
-[Demo on Youtube](https://youtu.be/8oagRyBbris)
+## Youtube Video
+[Demo](https://youtu.be/8oagRyBbris)
