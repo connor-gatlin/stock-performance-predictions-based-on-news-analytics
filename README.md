@@ -16,7 +16,7 @@ The modeling code is under ./src. Since tree based models have different data pr
 The [report](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Report.pdf) documents all the details of our analysis.
 
 ## Slides
-Presentation.pptx contains the slides used in the presentation.
+Slides used in the presentation can be found [here](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/Presentation.pptx).
 
 ## Video
 [Demo on Youtube](https://youtu.be/8oagRyBbris)
