@@ -8,7 +8,8 @@ Data is not uploaded to github due to copyright. You can find the dataset in [Ka
 
 ## Visualization
 The web visualization code is under ./web.
-![Apple: stock prices and news analytics](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/web/Website.png)
+
+![Example: Apple's stock prices and news analytics](https://github.com/connor-gatlin/stock-performance-predictions-based-on-news-analytics/raw/master/web/Website.png)
 
 ## Modeling
 The modeling code is under ./src. Since tree based models have different data preprecessing requirements than neural network based model, we keep CatBoost Classifier and LightGBM in project.ipynb and LSTM in LSTM_final.ipynb.
