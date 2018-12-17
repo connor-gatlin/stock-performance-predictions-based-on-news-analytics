@@ -23,4 +23,5 @@ Slides used in the presentation can be found [here](https://github.com/connor-ga
 
 ## Youtube Video
 [Proposal](https://docs.google.com/presentation/d/e/2PACX-1vR9NooelHf_P_mu8H8iEqnQh3DxyXRdsj71BH2ov639U5JeB5kld_AuDzQVTdYTGAvQuEv6nSsGZcRm/pub?start=false&loop=false&delayms=3000)
+
 [Demo](https://youtu.be/8oagRyBbris)
